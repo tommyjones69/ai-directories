@@ -10,4 +10,13 @@ export const directories: Directory[] = [
         "submission_experience": "",
         "pricing": ""
     },
+
+    {
+        "name": "Human or Not",
+        "link": "https://www.humanornot.co/",
+        "submission_link": "www.humanornot.co/submit-tool",
+        "domain_rating": 1,
+        "monthly_visits": 10000,
+        "pricing": "Free"
+},
 ]
